@@ -2,3 +2,8 @@
 /data
 output.png
 /bin
+/include
+/local
+npm*
+pip*
+/share
